@@ -1,2 +1,1 @@
-# estudoalura
-Material para estudo
+# aluraplus
